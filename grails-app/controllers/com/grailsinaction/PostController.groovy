@@ -2,5 +2,5 @@ package com.grailsinaction
 
 class PostController {
 
-    def index() {}
+    def scaffold = true
 }

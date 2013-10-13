@@ -2,5 +2,5 @@ package com.grailsinaction
 
 class ProfileController {
 
-    def index() {}
+    def scaffold = true
 }

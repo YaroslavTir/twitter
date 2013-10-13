@@ -2,5 +2,5 @@ package com.grailsinaction
 
 class TagController {
 
-    def index() {}
+    def scaffold = true
 }
