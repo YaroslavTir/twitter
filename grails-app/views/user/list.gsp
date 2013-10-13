@@ -32,8 +32,7 @@
 
             <g:sortableColumn property="password" title="${message(code: 'user.password.label', default: 'Password')}"/>
 
-            <g:sortableColumn property="dateCreated"
-                              title="${message(code: 'user.dateCreated.label', default: 'Date Created')}"/>
+            <g:sortableColumn property="dateCreated" title="${message(code: 'user.dateCreated.label', default: 'Date Created')}"/>
 
             <th><g:message code="user.profile.label" default="Profile"/></th>
 
